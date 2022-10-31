@@ -40,3 +40,10 @@ The manager can increase or decrease the product price and change the details su
 The manager can add or remove a pharmacy from the web site. 
 
 
+Requirement to develop the system 
+-	The user must connect to the internet 
+-	Must run on Linux, windows or MacOS 
+-	Support the creation of components in a variety of languages including PHP, JavaScript, HTML and CSS. 
+
+
+
