@@ -1,4 +1,5 @@
-# BahtainHealth is free and open source online pharmacy system to make the users purchase health and care staff in Bahrain.
+# BahrainHealth 
+is free and open source online pharmacy system to make the users purchase health and care staff in Bahrain.
 This system has MIT Licence 
 
 Our system is an online website called “BahrainHealth” connected to all
