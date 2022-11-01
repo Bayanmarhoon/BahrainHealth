@@ -1,100 +1,78 @@
- body{
-  background-color: #888;
+body {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #fff;
+  background-image: url(https://cdn.shopify.com/s/files/1/2504/3282/files/marbles_seemless.jpg?5912703254077228492);
 }
-.card{
-  margin-top: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 546px;
-  height: 275px;
-  border: 1px;
-  background-color: white;
-  border-radius: 20px;
-  background-image: url('https://png.pngtree.com/thumb_back/fw800/back_pic/04/61/50/24586e4bfa76c0d.jpg');
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.9);
+
+
+.d-flex {
+  display: flex;
 }
-.top{
-  margin: auto;
-  height: 70%;
-  border-radius: 20px 20px 0px 0px;
-}
-.bottom{
-  margin: auto;
-  height: 30%;
-  border-radius: 0px 0px 20px 20px;
-}
-ol{
-  list-style-type: none;
-  word-spacing: 0.5cm;
-  padding: 10px;
+
+.mar-t-1 {
+  margin-top: 15px;
+} 
+
+.text-center {
   text-align: center;
-  font-family: "Segoe UI", Sans-serif;
-  font-weight: bold;
-  font-size: 12px;
-  color: red;
 }
-.top li{
-  display: inline;
+
+.gift-card {
+  border-radius: 10px;
+  background: #fafafa;
+  width: 430px;
+  color: #3d3d3d;
+  font-family: sans-serif;
+  display: flex;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2); 
 }
-hr{
-  color: #669999;
-  background-color: #669999;
-  height: 2px;
+
+.gift-card__image {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  flex: 1;
+  max-width: 150px;
+  background-size: cover;
+  background-image: url(https://cdn.shopify.com/s/files/1/2504/3282/files/annie-spratt-102799-unsplash.jpg?15904179471993750892);
 }
-.right li{
+
+.gift-card__content {
+  padding: 30px 20px;
+  //flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.gift-card__msg {
+  font-size: 10px;
   display: block;
-  line-height: 1cm;
+  margin-top: 10px;
 }
-.left p{
-  margin: auto;
-  width: 20%;
-  border: 1px solid;
-  font-size: 30px;
-  font-family: "Yu Gothic UI", Sans-serif;
-  color: red;
-  text-align: center;
-  float: left;
-  padding: 12px 0px 12px 0px;
+
+.gift-card__details {
+  margin-top: auto;
+  align-items: center;
+  line-height: 1;
 }
-.right{
-  margin-left: 90px;
-  width: 30%;
-  font-size: 30px;
-  font-weight: bold;
-  font-family: "Yu Gothic", Sans-serif;
-  position: absolute;
+
+.gift-card__code {
+  display: inline-block;
+  background: white;
+  color: black;
+  padding: 10px 13px;
+  margin-top: 20px;
+  font-size: 20px;
+  border: 1px solid #e3e3e3;
 }
-.caption p{
-  margin-top: 100px;
-  font-size: 13px;
-  font-weight: bold;
-  text-align: center;
-  font-family: "Yu Gothic", Sans-serif;
+
+.gift-card__amount {
+  font-size: 70px;
 }
-.img2{
-  width: 40%;
-}
-.text{
-  width: 60%;
-  float: right;
-}
-img{
-  float: left;
-  margin-left: 160px;
-  margin-bottom: 10px;
-  width: 25%;
-  heiht: 50px;
-}
-.text li{
-  margin-top: 5px;
-  padding: 12px;
-  list-style-type: none;
-  line-height: 0;
-  texta-lign: center;
-  font-family: "Yu Gothic", Sans-serif;
-}
-@media only screen and (min-width: 600px) {
-  body {
-    orientation: landscape;
-  }
+.gift-card__amount-remaining {
+  font-size: 14px;
+  margin-top: 7px;
 }
