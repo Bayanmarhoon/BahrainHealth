@@ -4,6 +4,10 @@
  .map-expand {
     display:none;
 }
+h1
+{
+    text-align: center;
+}
 /* New Template 114 - CSS Document  Company_ID:	28463 Logo_Img:	http://imgsg.jobing.com/company/logos/logo28463.gif Logo_Img_Sm:	http://imgsg.jobing.com/company/logos/125x60/logo28463.gif Logo_Img_Md:	http://imgsg.jobing.com/company/logos/200x100/logo28463.gif Logo_Img_Lg:	http://imgsg.jobing.com/company/logos/300x145/logo28463.gif Head_Img_CC:	 Head_Img_Dotcom:	 Head_Img_Mob:	 Body_Img:	 Body_Img_Position:	 Body_BgColor:	#ffffff Page_BgColor:	#f8f8ff Head_Color:	#000000 Body_Color:	#000000 Link_Color:	#912F3F Accent_Color_1:	#912F3F Accent_Color_2:	#000000 Accent_Color_3:	#000000 Head_Font:	Arial, Helvetica, sans-serif Body_Font:	Arial, Helvetica, sans-serif */
  .head-company-name {
     display:none;
