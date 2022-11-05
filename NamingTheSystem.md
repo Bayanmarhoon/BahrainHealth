@@ -1,0 +1,1 @@
+Our project now has a public repository on GitHub. Because the project is an online pharmacy management system, a distinct, simple, and relevant name was necessary. Since the system is for all Bahrain pharmacies and make the users find any related health and care staff. We decided to name it “BahrainHealth”. 
