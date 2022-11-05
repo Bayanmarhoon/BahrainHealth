@@ -1,0 +1,1 @@
+Among the five phases of the project, initiation and planning have been completed, and work on the execution phase is presently underway. Business cases, charters, team contracts, scope statements, WBS, schedule baselines, status reports, lessons-learned reports, and any other papers necessary to run the project are examples of project management deliverables.
