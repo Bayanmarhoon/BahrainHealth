@@ -46,7 +46,7 @@ Category Page
 <img width="1239" alt="Screen Shot 2022-11-05 at 3 04 37 PM" src="https://user-images.githubusercontent.com/116571162/200119178-d96c2a9c-62fa-496a-86ce-3ca0eca415c1.png">
 
 Order Page 
-<img width="1239" alt="Screen Shot 2022-11-05 at 3 04 37 PM" src="https://user-images.githubusercontent.com/116571162/200119223-ae3142d1-34cb-4c8e-b3e4-e3cccc63950e.png">
+<img width="1222" alt="Screen Shot 2022-11-05 at 3 10 29 PM" src="https://user-images.githubusercontent.com/116571162/200119323-6794963a-201a-4a41-a0b0-c9b3afdeec28.png">
 
 
 #License 
