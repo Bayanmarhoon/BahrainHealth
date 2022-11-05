@@ -28,3 +28,8 @@ confirm the new password again. Users can choose either if they
 want to select pharmacy, search for product or choose from the list
 bar that available on the margin in the home page which classifies
 products by type.
+
+
+
+#Developer Documintation 
+<img width="1440" alt="Screen Shot 2022-11-05 at 2 58 31 PM" src="https://user-images.githubusercontent.com/116571162/200118771-2a519006-179b-4039-a81d-eb2cafd468e3.png"> 
