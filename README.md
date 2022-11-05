@@ -42,6 +42,13 @@ Login Page
 Voucher Card Page 
 <img width="1117" alt="Screen Shot 2022-11-05 at 3 03 13 PM" src="https://user-images.githubusercontent.com/116571162/200118956-10df8d4b-3f00-4e04-9514-aa7d4ddce23b.png">
 
-Order Page 
+Category Page 
 <img width="1239" alt="Screen Shot 2022-11-05 at 3 04 37 PM" src="https://user-images.githubusercontent.com/116571162/200119178-d96c2a9c-62fa-496a-86ce-3ca0eca415c1.png">
+
+Order Page 
+<img width="1239" alt="Screen Shot 2022-11-05 at 3 04 37 PM" src="https://user-images.githubusercontent.com/116571162/200119223-ae3142d1-34cb-4c8e-b3e4-e3cccc63950e.png">
+
+
+#License 
+License under MIT 
 
